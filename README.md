@@ -2,10 +2,10 @@
 ## Predict if your employee will Burn Out
 Understanding what will be the Burn Rate for the employee working in an organization based on the current pandemic situation where work from home is a boon and a bane. How are employees' Burn Rate affected based on various conditions provided?
 
-當前在家工作大流行的情況下，欲了解在組織中工作員工的工作疲勞率是多少。根據提供的各種條件，以AI與機器學習的現有module來推估員工的疲勞率如何受到影響
+當前在家工作大流行的情況下，欲了解在組織中工作員工的工作疲勞率是多少。根據提供的各種條件，以 AI 與機器學習的現有 module 來推估員工的疲勞率如何受到影響
 
 ## Algorithms
-將數據進行資料前處理(KNNImputer、TargetEncoding、StandardScaler)後，套入 XGBoost 演算法建立模型，並使用 Optuna 進行超參數優化。
+將數據進行資料前處理 (KNNImputer、TargetEncoding、StandardScaler) 後，套入 XGBoost 演算法建立模型，並使用 Optuna 進行超參數優化。
 
 
 ## Dataset Description
